@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "categoryProductId": 1,
+      "name": "iPhone 13 Pro Max 256GB I Chính hãng VN/A",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645461873/jcq4pfb38tbcorbheuok.webp",
+      "price": 33190000,
+      "quantity": 10000,
+      "short_desc": "<p>Nguyên hộp, đầy đủ phụ kiện từ nhà sản xuất</p><p class=\"mt-[10px]\">Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple Việt Nam. 1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất.&nbsp;<a href=\"https://cellphones.com.vn/chinh-sach-bao-hanh\" style=\"color: red\">(xem chi tiết)</a></p>",
+      "desc": "<p><strong><a href=\"https://cellphones.com.vn/iphone-13-pro-max.html\" title=\"iPhone 13 Pro Max chính hãng\" target=\"_blank\">iPhone 13 Pro Max</a> 256GB</strong> được đánh giá là một trong những dòng iPhone có khả năng chụp ảnh siêu ấn tượng cùng với camera góc siêu rộng mang đến khả năng chụp ảnh thiếu sáng một cách đặc biệt. Không những thế, mà dòng iPhone này còn được đánh giá là có dung lượng bộ nhớ tốt, đáp ứng được đầy đủ các công việc hằng ngày<br>Xem thêm thông tin <a href=\"https://cellphones.com.vn/iphone-13-pro-max-512gb.html\" target=\"_blank\">iPhone 13 Pro Max 512GB</a> thiết kế đẳng cấp, mang lại trải nghiệm vượt trội cho người dùng</p>",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "categoryProductId": 1,
+      "name": "Samsung Galaxy Note 20 Ultra 5G",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645462213/mrsd1su07n4f9z5jzcbb.webp",
+      "price": 20500000,
+      "quantity": 10000,
+      "short_desc": "<p>Mới, đầy đủ phụ kiện từ nhà sản xuất</p><p class=\"10px\">Bút cảm ứng, Cây lấy sim, Tai nghe dây đầu Type C, Cáp Type C - Type C, Củ sạc nhanh rời đầu Type C, Sách hướng dẫn</p><p class=\"mt-[10px]\">Bảo hành chính hãng 12 tháng tại trung tâm bảo hành ủy quyền, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ NSX.  <a href=\"https://cellphones.com.vn/chinh-sach-bao-hanh\" style=\"color: red\">(xem chi tiết)</a></p>",
+      "desc": "<h2 style=\"text-align: justify;\"><strong>Điện thoại Samsung Note 20 Ultra 5G - Sang trọng, hiệu năng vượt trội</strong></h2><p style=\"text-align: justify;\">Bên cạnh biên bản Galaxy Note 20 thường, Samsung còn cho ra mắt <strong>Note 20 Ultra 5G</strong> cho khả năng kết nối dữ liệu cao cùng thiết kế nguyên khối sang trọng, bắt mắt. Đây sẽ là sự lựa chọn hoàn hảo dành cho bạn để sử dụng mà không bị lỗi thời sau thời gian dài ra mắt.</p><p style=\"text-align: justify;\">Ngoài ra, bạn có thể tham khảo <a href=\"https://cellphones.com.vn/samsung-galaxy-z-fold-3.html\">Galaxy Z Fold 3 5G</a> nếu bạn cần sự khác biệt và khẳng định đẳng cấp.</p>"
+    },
+    {
+      "categoryProductId": 3,
+      "name": "Apple MacBook Air M1 256GB 2020 I Chính hãng Apple Việt Nam",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645462816/tv3ibwcdsdgun6utno6e.webp",
+      "price": 24590000,
+      "quantity": 10000,
+      "short_desc": "<p class=\"mt-[10px]\">Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã SA/A (được Apple Việt Nam phân phối chính thức).</p><p class=\"mt-[10px]\">Máy, Sách HDSD, Cáp sạc USB-C (2 m), Cốc sạc USB-C 30W</p><p class=\"mt-[10px]\">Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple Việt Nam. 1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. (xem chi tiết)</p>",
+      "desc": "Macbook Air M1 2020 - Sang trọng, tinh tế, hiệu năng khủng\nLà dòng sản phẩm có thiết kế mỏng nhẹ, sang trọng và tinh tế cùng với đó là giá thành phải chăng nên MacBook Air đã thu hút được đông đảo người dùng yêu thích và lựa chọn. Một trong những phiên bản mới nhất mà khách hàng không thể bỏ qua khi đến với CellphoneS đó là MacBook Air M1. Dưới đây là chi tiết về thiết kế, cấu hình của máy.\n\nThiết kế tinh tế, chất liệu nhôm bền bỉ\nMacBook Air 2020 M1 mới vẫn luôn tuân thủ triết lý thiết kế với những đường nét đơn nhưng vô cùng sang trọng. Máy có độ mỏng nhẹ chỉ 1,29kg và các cạnh tràn viền khiến thiết bị trở nên đẹp hơn và cao cấp hơn.",
+      "id": 12
+    },
+    {
+      "categoryProductId": 3,
+      "name": "Laptop Asus Gaming Rog Strix G15 G513IH HN015W",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645463392/zudmtgdhazdmk1hawah7.webp",
+      "price": 21990000,
+      "quantity": 10000,
+      "short_desc": "Bảo hành 24 tháng tại trung tâm bảo hành Chính hãng. 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất. (xem chi tiết)",
+      "desc": "Laptop Asus gaming Rog Strix G15 G513IH-HN015W - Cấu hình mạnh mẽ chiến game\nAsus ROG Strix G15 G513IH-HN015TW là chiếc laptop có cấu hình mạnh mẽ, đáp ứng được hầu hết các tựa game trên thị trường hiện nay. Ngay cả khi hoạt động trong nhiều giờ liền máy vẫn khá mát mẻ do có hệ thống tản nhiệt cao cấp. Nếu bạn là một game thủ hay người dùng muốn tìm máy có cấu hình cao thì đừng bỏ qua chiếc laptop Asus chất lượng này.\n\nThiết kế mạnh mẽ\nAsus ROG Strix G15 G513IH-HN015TW có ngoại hình vô cùng mạnh mẽ với màu sắc trang nhã. Khung máy có kích thước nhỏ hơn đến 7% so với thế hệ trước giúp bạn có thể chơi bất cứ tựa game nào mà bạn muốn. ",
+      "id": 13
+    }
+  ],
+  "categoryProducts": [
+    {
+      "title": "Điện thoại",
+      "id": 1
+    },
+    {
+      "title": "Tablet",
+      "id": 2
+    },
+    {
+      "title": "Laptop, PC, Màn hình",
+      "id": 3
+    },
+    {
+      "title": "Đồng hồ",
+      "id": 4
+    },
+    {
+      "title": "Âm thanh",
+      "id": 5
+    },
+    {
+      "title": "Phụ kiện",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Thành Đạt Nguyễn22",
+      "email": "nguyenthanhdat27042002@gmail.com",
+      "password": "$2a$10$3sEJKHSKA.Fb1.FDyoXAZev3FWQfl5TWzVk3eRYrivsOaxyWqwyUq",
+      "phone": "0823865962",
+      "address": "phường vạn phúc, quận hà đông, thành phó hà nội",
+      "roleId": "admin",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645171234/ljorltuqyqgepc5su6jf.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Thành Đạt Nguyễn",
+      "email": "toilaai27042002@gmail.com",
+      "password": "$2a$10$hvaScjY0w5QaF9Cbywu0zesKsU.lSeDPicRqD2GsiJAB.zZfhh6iu",
+      "phone": "0823865962",
+      "address": "phường vạn phúc, quận hà đông, thành phó hà nội",
+      "roleId": "admin",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645185829/acb21xzdizdjvddsrwme.jpg"
+    }
+  ],
+  "comments": [],
+  "orders": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cựu CEO OnePlus ‘nhá hàng’ smartphone mang thương hiệu Nothing?",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645279838/w2v33j4vvjntpmwqltum.jpg",
+      "desc": "<p>Vào năm 2020, nhà đồng sáng lập OnePlus – ông Carl Pei đã từ chức tại OnePlus để ra thành lập công ty riêng. Công ty mới của ông mang tên Nothing và có trụ sở tại Luân Đôn, Anh. Carl Pei định hướng công ty mới của ông sẽ tập trung vào mảng công nghệ tiêu dùng với các thiết bị thông minh nằm trong cùng một hệ sinh thái.</p> <p class='mt-[10px]'>Sau một thời gian thành lập và phát triển, Nothing đã cho ra sản phẩm đầu tay là chiếc tai nghe không dây Nothing Ear (1) có chống ồn chủ động với mức giá chỉ 99$. Tuy nhiên vì là một thương hiệu mới nên quy mô bán ra của sản phẩm không lớn, vẫn còn ít người biết đến được thương hiệu này. Gần đây, Nothing cũng đã có quyền sở hữu lại thương hiệu smartphone Essential của Andy Rubin. Với việc Nothing mua lại Essential, nhiều người đã nhận định rằng, Carl Pei sẽ cho ra những smartphone thương hiệu Nothing trong thời gian tới đây.</p>  <p class='mt-[10px]'>Tuy nhiên, là một công ty rất kín tiếng, chúng ta có rất ít thông tin về Nothing và các sản phẩm sẽ ra mắt của hãng. Hầu hết các thông tin có được đến từ những dòng tweet của CEO Carl Pei. Mới đây, Carl Pei đã có dòng tweet mới “úp mở”  về chiếc điện thoại sắp ra mắt tới đây. Ông đã đưa ra một loạt các tweet lạ như Back on Android (trở lại với Android) và Android is awesome (Android thật tuyệt vời). Điều quan trọng mặc dù đây là những dòng tweet không đầu không đuôi nhưng lại được @Android và @Snapdragon hưởng ứng. Điều này càng chứng minh rõ ràng hơn việc Nothing đang lên kế hoạch cho một chiếc điện thoại mới chạy Android và sử dụng chip từ Qualcomm.</p> <p class='mt-[10px]'>Ngoài ra, chúng ta vẫn chưa có thêm bất cứ thông tin gì về chiếc điện thoại của hãng công nghệ này. Đã có nhiều đồn đoán rằng Nothing sẽ cho ra mắt điện thoại thông minh vào đầu năm nay nhưng tuy nhiên tin đồn này đã sớm bị bác bỏ. Nothing gây ra một hiệu ứng tò mò rất lớn đối với các tín đồ công nghệ, họ thực sự rất chặt chẽ, không có một thông tin cụ thể nào về những sản phẩm mới. Và với kinh nghiệm lâu năm của Carl Pei tại OnePlus, các tín đồ công nghệ nói chung ngày càng thêm mong chờ về sản phẩm sắp tới của Nothing. Liệu rằng chúng ta sẽ có thêm một OnePlus thứ hai, những flagship killer thực thụ trong thời gian tới? Vẫn còn rất sớm để trả lời câu hỏi này.</p>",
+      "short_desc": "Vào năm 2020, nhà đồng sáng lập OnePlus – ông Carl Pei đã từ chức tại OnePlus để ra thành lập công ty ..."
+    },
+    {
+      "id": 2,
+      "title": "Tim Cook bị cổ đông phản đối vì nhận mức lương thưởng quá cao",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645324685/pq2khubz91wbwkhhoanc.jpg",
+      "desc": "    <p>Theo tài liệu nộp lên Ủy ban Chứng khoán Mỹ (SEC), CEO Apple Tim Cook có thu nhập gần 99 triệu USD trong năm 2021 vừa qua. Mức thu nhập này cao gấp 6 lần so với năm 2020 (14,8 triệu USD).</p><p class='mt-[10px]'>Các hạng mục trong tổng thu nhập của Tim Cook được liệt kê bao gồm lương cơ bản 3 triệu USD không đổi. Khoản thưởng trị giá 12 triệu USD là thành quả sau khi Apple đạt được các mục tiêu về tài chính và môi trường. Các khoản ưu đãi bao gồm di chuyển bằng máy bay, chi phí an ninh, lương hưu, bảo hiểm, nghỉ lễ có giá trị 1,39 triệu USD. Tuy nhiên, hạng mục thu nhập lớn nhất của Tim Cook đó là số cổ phiếu trị giá tới 82,3 triệu USD.</p><p class='mt-[10px]'>Mức tiền thưởng này được đánh giá là hoàn toàn phù hợp với những gì Tim Cook đã làm cho Apple. Dưới sự lãnh đạo của Cook, tổng lợi nhuận cổ đông của Apple hiện là hơn 1.000%, bao gồm cả mức tăng gần 30% của giá cổ phiếu Apple trong 12 tháng qua. Vào đầu năm 2022, Apple dưới sự lãnh đạo của ông đã làm nên lịch sử và trở thành công ty đầu tiên ở Mỹ đạt giá trị thị trường vượt ngưỡng 3000 tỷ USD.</p><p class='mt-[10px]'>Tuy nhiên, trong một bức thư gửi cho Financial Times vào ngày 16/01 vừa qua, ISS (Tổ chức dịch vụ cổ đông) nhận định số cổ phiếu mà Apple thưởng cho Tim Cook là “đáng lo ngại”, họ cho rằng có đến hơn một nửa tiêu chí trong đó không rõ ràng và không chính xác. Do đó, với tư cách là một tổ chức dịch vụ cổ đông, ISS đang kêu gọi ác cổ đông của Apple bỏ phiếu chống lại mức lương thưởng mà Tim Cook đã nhận trong năm vừa qua.</p><p class=\"mt-[10px]\">Thông thường, cuộc bỏ biểu của cổ đông của về khoản lương thưởng dành cho CEO chỉ mang tính chất tham khảo và hội đồng quản trị sẽ không bắt buộc phải nghe theo. Tuy nhiên Financial Times cho rằng, nếu các cổ đông đều có phản ứng dữ dội về con số gần 99 triệu USD này, hội đồng quản trị sẽ buộc phải có những hành động phù hợp để trấn an cổ đông. Phản ứng trước những thông tin của Financial Times, Apple không bình luận và từ chối đưa ra hồ sơ của công ty về chi tiết khoảng lương thưởng của Cook.</p><p class=\"mt-[10px]\">Nguồn: <b>Tổng hợp</b></p>",
+      "short_desc": "Theo tài liệu nộp lên Ủy ban Chứng khoán Mỹ (SEC), CEO Apple Tim Cook có thu nhập gần 99 triệu USD trong ..."
+    },
+    {
+      "title": "Mua điện thoại Xiaomi mới, nhận ngay 3 tháng YouTube Premium miễn phí",
+      "img": "http://res.cloudinary.com/dvj4wwihv/image/upload/v1645325558/mdrlhbd5gzx1g87wzx90.jpg",
+      "desc": "<p>Xiaomi mới đây đã tung ra chương trình ưu đãi tặng 3 tháng trải nghiệm miễn phí YouTube Premium cho khách hàng mua điện thoại mới. Ưu đãi này không dành cho tất cả các mẫu smartphone của hãng. Chỉ có một số mẫu smartphone nhất định mới có thể nhận được ưu đãi này. Chương trình này là một phần trong thoả thuận hợp tác mới mà Xiaomi ký kết với YouTube trước đó không lâu.</p><p class='mt-[10px]'>Ngay sau khi ưu đãi này được, nó đã nhanh chóng thu hút được sự quan tâm của người dùng, đặc biệt là với những người đang có ý định nâng cấp lên YouTube Premium. Thời gian 3 tháng thử nghiệm tuy không phải là thời gian quá dài nhưng cũng sẽ đủ để người dùng có thể trải nghiệm được hết những tính năng đặc sắc trên YouTube Premium. Về phần YouTube, họ mong rằng thông qua chương trình này, một số người có thể tìm thấy điều mà họ cần trong đối với gói Premium và tiếp tục đăng ký dịch vụ này. Có thể liệt kê một số lợi ích tuyệt vời mà YouTube Premium đem lại như sau:</p> <ul class=\"mt-[10px]\"><li>Không có quảng cáo trong video</li><li>Toàn quyền truy cập vào YouTube Originals</li><li>Sử dụng YouTube Music Premium</li><li>Có thể tải video, và phát video trong nền</li></ul> <p class='mt-[10px]'>Bình luận về chương trình ưu đãi thú vị này, Hanson Han, Giám đốc Phát triển Kinh doanh của Xiaomi International phát biểu: “Người dùng đang ngày càng dành nhiều thời gian giải trí bằng video trực tuyến và Xiaomi tin rằng điều quan trọng là phải để khách hàng của mình có cơ hội trải nghiệm nội dung chất lượng theo những cách mới. Xiaomi rất vui khi hợp tác với YouTube để mang đến khách hàng của mình trải nghiệm xem nội dung yêu thích mà không bị gián đoạn. Chúng tôi hy vọng đây sẽ là sự khởi đầu cho mối quan hệ lâu dài giữa Xiaomi và YouTube, cùng nhau đem lại lợi ích tốt nhất cho người dùng”</p> <p class='mt-[10px]'>Tuy nhiên, người dùng cần lưu ý chương trình ưu đãi này sẽ chỉ được áp dụng cho một số sản phẩm cụ thể thuộc danh sách sau:</p> <ul class=\"mt-[10px]\"><li>Xiaomi 11T Pro</li><li>Xiaomi 11T</li><li>Xiaomi 11 Lite 5G NE</li><li>Redmi Note 11 Pro 5G</li><li>Redmi Note 11 Pro</li><li>Redmi Note 11S</li><li>Redmi Note 11</li></ul><p class=\"mt-[10px]\">Để có thể hưởng chương trình ưu đãi này, trước hết bạn cần mua một chiếc điện thoại thuộc danh sách trên. Sau khi đã có sản phẩm, bạn tiến hành mở ứng dụng YouTube và làm theo hướng dẫn <a href=\"https://support.google.com/youtube/answer/6305537\" class=\"text-yellow-500 font-bold\">tại đây</a> để đăng ký. Thời gian nhận ưu đãi này sẽ kết thúc vào ngày 28 tháng 2, nhưng cũng có thể được gia hạn tùy theo tình hình thực tế từng quốc gia/khu vực.</p><p class=\"mt-[10px]\">Theo <b>Neowin</b></p>",
+      "short_desc": "Xiaomi mới đây đã tung ra chương trình ưu đãi tặng 3 tháng trải nghiệm miễn phí YouTube Premium cho khách hàng mua ...",
+      "id": 3
+    }
+  ],
+  "banners": []
+}
